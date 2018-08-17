@@ -254,7 +254,7 @@ header.masthead h2 {
 }
 
 .floating-label-form-group-with-focus label {
-  color: #9AD1D4;
+  color: #8ABCBE;
 }
 
 form .row:first-child .floating-label-form-group {
@@ -274,7 +274,7 @@ form .row:first-child .floating-label-form-group {
 }
 
 .bg-primary {
-  background-color: #9AD1D4 !important;
+  background-color: #8ABCBE !important;
 }
 
 .bg-secondary {
@@ -282,7 +282,7 @@ form .row:first-child .floating-label-form-group {
 }
 
 .text-primary {
-  color: #9AD1D4 !important;
+  color: #8ABCBE !important;
 }
 
 .text-secondary {
@@ -290,8 +290,8 @@ form .row:first-child .floating-label-form-group {
 }
 
 .btn-primary {
-  background-color: #9AD1D4;
-  border-color: #9AD1D4;
+  background-color: #8ABCBE;
+  border-color: #8ABCBE;
 }
 
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active {
